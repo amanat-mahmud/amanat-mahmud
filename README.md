@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amanatmahmud@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uWpCB5maekQmdZcigWByora6xvjKgwq9/view?usp=share_link](https://tinyurl.com/3vzp7mdt)
+- 📄 Know about my experiences [](https://tinyurl.com/3vzp7mdt)
 
 
 <h3 align="left">Languages and Tools:</h3>
