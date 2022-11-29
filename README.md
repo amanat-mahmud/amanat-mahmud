@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Sass, TypeScript and Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amanat-mahmud?tab=repositories](https://github.com/amanat-mahmud?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
 
 - 📫 How to reach me **amanatmahmud@gmail.com**
 
