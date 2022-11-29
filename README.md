@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amanatmahmud@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/3vzp7mdt](https://tinyurl.com/3vzp7mdt)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
 
 
 <h3 align="left">Languages and Tools:</h3>
