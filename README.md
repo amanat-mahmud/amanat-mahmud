@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end web developer from Bangladesh</h3>
 
 
-- <div style="font-size:20px">🔭 I’m currently working on [Book Worm](https://book-worm-65870.web.app/)</div>
+- <div style="font-size:20px;">🔭 I’m currently working on [Book Worm](https://book-worm-65870.web.app/)</div>
 - 💯 Portfolio webite [Amanat](https://amanatmahmud.com)
 - 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
 - 📫 How to reach me **amanatmahmud@gmail.com**
