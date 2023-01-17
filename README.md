@@ -3,15 +3,16 @@
 
 
 - 🔭 I’m currently working on [Book Worm](https://book-worm-65870.web.app/)
-
-- 🌱 I’m currently learning **Redux, TypeScript and Wordpress**
-
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
-
+- 
+- 💯 Portfolio webite [Amanat](https://amanatmahmud.com)
+- 
+- 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
+- 
 - 📫 How to reach me **amanatmahmud@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
-
+- 🌱 I’m currently learning **Redux, TypeScript and Wordpress**
+ 
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
 
 <h3 align="left">Front End:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
