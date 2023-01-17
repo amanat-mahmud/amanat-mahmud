@@ -3,15 +3,10 @@
 
 
 - 🔭 I’m currently working on [Book Worm](https://book-worm-65870.web.app/)
-- 
 - 💯 Portfolio webite [Amanat](https://amanatmahmud.com)
-- 
 - 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
-- 
 - 📫 How to reach me **amanatmahmud@gmail.com**
-
 - 🌱 I’m currently learning **Redux, TypeScript and Wordpress**
- 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
 
 <h3 align="left">Front End:</h3>
