@@ -10,7 +10,7 @@
 
 
 <!-- <h3 align="left">Front End:</h3> -->
-##Front End:
+## Front End:
 <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react" />
