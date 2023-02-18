@@ -54,5 +54,5 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>  
