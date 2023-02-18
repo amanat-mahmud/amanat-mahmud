@@ -9,7 +9,8 @@
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
 
 
-<h3 align="left">Front End:</h3>
+<!-- <h3 align="left">Front End:</h3> -->
+##Front End:
 <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react" />
