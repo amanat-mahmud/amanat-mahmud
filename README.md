@@ -29,7 +29,9 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,python" />
   </a>
 </p>
+
 ## Tools:
+
 <p align="left">
         <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,firebase,linux,ai,ps,figma,xd" />
