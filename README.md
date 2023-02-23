@@ -39,7 +39,6 @@
 </p> -->
 
 ## Language:
-
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
@@ -47,39 +46,34 @@
 </p>
         
 ## Library:
-    
    <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react" />
         </a>
-    < /p>
+    </p>
             
- ## Framework:
- 
+ ##Framework:
     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express"/>
         </a>
     </p>
    
- ## Database:
- 
+ ##Database:
     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
     </p>
         
- ## Technologies:
- 
+ ##Technologies:
     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,linux"/>
         </a>
     </p>
         
-## Tools:
-
+##Tools:
      <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=github,firebase,ai,ps,figma,xd"/>
