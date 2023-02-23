@@ -10,7 +10,7 @@
 
 
 <!-- <h3 align="left">Front End:</h3> -->
-## Front End:
+<!-- ## Front End:
 <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react" />
@@ -36,7 +36,52 @@
         <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,firebase,linux,ai,ps,figma,xd" />
   </a>
-</p>
+</p> -->
+
+## Language:
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python"/>
+    </a>
+<p>
+    
+
+    
+## Library:
+   <p align="left">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react"/>
+        </a>
+    <p>
+            
+ ## FrameWork:
+    <p align="left">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express"/>
+        </a>
+    <p>
+   
+ ## Database:
+           <p align="left">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+        </a>
+    <p>
+        
+ ## Technologies:
+       <p align="left">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,linux"/>
+        </a>
+    <p>
+        
+## Tools:
+           <p align="left">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=github,firebase,ai,ps,figma,xd"/>
+        </a>
+    <p>
 
 ## Connect with me  
 <div align="center">
