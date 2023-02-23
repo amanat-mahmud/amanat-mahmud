@@ -38,14 +38,14 @@
   </a>
 </p> -->
 
-## Language:
+## Languages:
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
     </a>
 </p>
         
-## Library:
+## Libraries:
 
 <p align="left">
     <a href="https://skillicons.dev">
@@ -53,7 +53,7 @@
     </a>
 </p>
     
- ## Framework:
+ ## Frameworks:
  
  <p align="left">
     <a href="https://skillicons.dev">
@@ -61,7 +61,7 @@
     </a>
 </p>
    
- ## Database:
+ ## DBMS:
  
 <p align="left">
         <a href="https://skillicons.dev">
