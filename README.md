@@ -44,44 +44,47 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python"/>
     </a>
-<p>
-    
-
-    
+</p>
+        
 ## Library:
+    
    <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react"/>
         </a>
-    <p>
+    </p>
             
- ## FrameWork:
+ ## Framework:
+ 
     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express"/>
         </a>
-    <p>
+    </p>
    
  ## Database:
-           <p align="left">
+ 
+    <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
-    <p>
+    </p>
         
  ## Technologies:
-       <p align="left">
+ 
+    <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,linux"/>
         </a>
-    <p>
+    </p>
         
 ## Tools:
-           <p align="left">
+
+     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=github,firebase,ai,ps,figma,xd"/>
         </a>
-    <p>
+    </p>
 
 ## Connect with me  
 <div align="center">
