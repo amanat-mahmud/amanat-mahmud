@@ -42,7 +42,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
     </a>
 </p>
         
@@ -50,9 +50,9 @@
     
    <p align="left">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react"/>
+            <img src="https://skillicons.dev/icons?i=react" />
         </a>
-    </p>
+    < /p>
             
  ## Framework:
  
