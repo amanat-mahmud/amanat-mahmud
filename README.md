@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Book Worm](https://book-worm-65870.web.app/)
-- <i class="fa-solid fa-browser"></i> Portfolio webite [Amanat](https://amanatmahmud.com)
+-  Portfolio webite [Amanat](https://amanatmahmud.com)
 - 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
 - 📫 How to reach me **amanatmahmud@gmail.com**
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
