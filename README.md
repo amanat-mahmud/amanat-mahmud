@@ -5,7 +5,7 @@
 - 👨 Portfolio webite [Amanat](https://amanatmahmud.com)
 - 📄 Know about my experiences [Resume](https://tinyurl.com/3vzp7mdt)
 - 📫 How to reach me **amanatmahmud@gmail.com**
-- 🌱 I’m currently learning **Redux, TypeScript and Wordpress**
+- 🌱 I’m currently learning **Redux and Wordpress**
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/amanat-mahmud?tab=repositories)
 
 
