@@ -50,6 +50,9 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" />
     </a>
+    
+    ![mongoose](https://github.com/amanat-mahmud/amanat-mahmud/assets/107941342/e3bc30e2-eabe-49ac-835f-661c33455dad)
+
 </p>
     
  ## Frameworks:
