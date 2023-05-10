@@ -50,7 +50,7 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" />
     </a>
-    <img alt="mongoose-logo" src="https://github.com/amanat-mahmud/amanat-mahmud/assets/107941342/0cf86d05-8439-461c-af70-95927259185e">
+    <img alt="mongoose-logo" width="48px" height="48px" src="https://github.com/amanat-mahmud/amanat-mahmud/assets/107941342/0cf86d05-8439-461c-af70-95927259185e">
 
 </p>
     
