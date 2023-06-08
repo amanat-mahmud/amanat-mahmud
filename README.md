@@ -110,7 +110,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>  
 
-## Most Used Languages  
+<!-- ## Most Used Languages  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark&show_icons=true" align="center"/>
-</div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark" align="center"/>
+</div>   -->
