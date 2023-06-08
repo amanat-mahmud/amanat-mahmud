@@ -109,3 +109,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark" align="center"/>
+</div>  
