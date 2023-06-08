@@ -112,5 +112,5 @@
 
 ## Most Used Languages  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark&show_icons=true" align="center"/>
 </div>  
