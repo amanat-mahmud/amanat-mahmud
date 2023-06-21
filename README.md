@@ -84,7 +84,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,firebase,ai,ps,figma,xd"/>
+        <img src="https://skillicons.dev/icons?i=github,netlify,vercel,firebase,ai,ps,figma,xd"/>
     </a>
 </p>
 
