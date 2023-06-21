@@ -71,9 +71,7 @@
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
        <img src="https://i.ibb.co/GVHmJ8S/mongoose.png" alt="mongoose" border="0">
-    <a href="https://icons8.com">
-        <img src="https://icons8.com/icon/gKfcEStXI1Hm/mongoose">
-    </a>
+       <img src="https://i.ibb.co/nzNmYQS/icons8-mongoose-48.png" alt="icons8-mongoose-48" border="0">
     </p>
         
 ## Technologies:
