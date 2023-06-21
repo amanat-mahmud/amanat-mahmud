@@ -1,7 +1,6 @@
 <!--<h1 align="center">Hi 👋, I'm Amanat Ullah Mahmud</h1>
 <h3 align="center">A passionate Front-end web developer from Bangladesh</h3> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=79FF97&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Amanat+Ullah+Mahmud;Creative+Front-end+developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=79FF97&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Amanat+Ullah+Mahmud.;Creative+Front-end+developer.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Book Worm](https://book-worm-65870.web.app/)
 - 🌐 Portfolio webite [Amanat](https://amanatmahmud.com)
