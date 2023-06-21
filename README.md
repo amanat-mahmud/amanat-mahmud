@@ -70,7 +70,7 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
-        <img src="https://i.ibb.co/GVHmJ8S/mongoose.png"/>
+       <img src="https://i.ibb.co/GVHmJ8S/mongoose.png" alt="mongoose" border="0">
     </p>
         
 ## Technologies:
