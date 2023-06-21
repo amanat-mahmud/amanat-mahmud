@@ -70,7 +70,6 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
-       <img src="https://i.ibb.co/GVHmJ8S/mongoose.png" alt="mongoose" border="0">
        <img src="https://i.ibb.co/nzNmYQS/icons8-mongoose-48.png" alt="icons8-mongoose-48" border="0">
     </p>
         
