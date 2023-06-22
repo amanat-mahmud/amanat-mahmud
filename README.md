@@ -51,6 +51,7 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" />
     </a>
+     <img src="https://i.ibb.co/nzNmYQS/icons8-mongoose-48.png" alt="icons8-mongoose-48" border="0">
 <!--     <img alt="mongoose-logo" width="48px"  src="https://github.com/amanat-mahmud/amanat-mahmud/assets/107941342/0cf86d05-8439-461c-af70-95927259185e"> -->
 <!--     <img width="88px"  src="https://github.com/amanat-mahmud/amanat-mahmud/assets/107941342/b798cdbf-68da-4ec5-8e0a-851c25969bab"> -->
 
@@ -70,7 +71,6 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
-       <img src="https://i.ibb.co/nzNmYQS/icons8-mongoose-48.png" alt="icons8-mongoose-48" border="0">
     </p>
         
 ## Technologies:
