@@ -71,9 +71,7 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
         </a>
-    <a href="https://ibb.co/wdSqpLb"><img src="https://i.ibb.co/XW7PF4d/doctorus45.png" alt="doctorus45" border="0"></a>
-    <a href="https://ibb.co/dtx4vSf"><img src="https://i.ibb.co/vhR4Wbc/docnew.png" alt="docnew" border="0"></a>
-   <a href="https://ibb.co/k0f55FM"><img src="https://i.ibb.co/K7kbbHm/directfinal.png" alt="directfinal" border="0"></a>
+   <a href="https://ibb.co/k0f55FM"><img src="https://i.ibb.co/K7kbbHm/directfinal.png" title="Directus" alt="directus" border="0"></a>
     </p>
         
 ## Technologies:
