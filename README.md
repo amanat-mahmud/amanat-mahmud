@@ -49,7 +49,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react" />
+        <img src="https://skillicons.dev/icons?i=react,redux" />
     </a>
      <img src="https://i.ibb.co/nzNmYQS/icons8-mongoose-48.png" title="Mongoose"  alt="mongoose" border="0">
 
