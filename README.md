@@ -59,7 +59,7 @@
  
  <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,express"/>
     </a>
 </p>
    
