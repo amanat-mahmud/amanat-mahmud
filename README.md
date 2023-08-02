@@ -67,9 +67,9 @@
  
 <p align="left">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+            <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
         </a>
-   <a href="https://ibb.co/k0f55FM"><img src="https://i.ibb.co/K7kbbHm/directfinal.png" title="Directus" alt="directus" border="0"></a>
+<!--    <a href="https://ibb.co/k0f55FM"><img src="https://i.ibb.co/K7kbbHm/directfinal.png" title="Directus" alt="directus" border="0"></a> -->
     </p>
         
 ## Technologies:
