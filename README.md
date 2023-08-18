@@ -108,7 +108,7 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&include_all_commits=false&count_private=true&hide_border=false&theme=dark" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>  
 
 <!-- ## Most Used Languages  
