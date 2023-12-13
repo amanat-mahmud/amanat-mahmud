@@ -110,9 +110,9 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amanat-mahmud&show_icons=true&include_all_commits=false&count_private=true&hide_border=false&rank_icon=github&theme=dark" align="center"/>
 </div>  
-<div>
+<!-- <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanat-mahmud&theme=solarized"/>
-</div>
+</div> -->
 
 <!-- ## Most Used Languages  
 <div align="center">
