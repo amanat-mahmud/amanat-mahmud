@@ -38,7 +38,7 @@
 3. [Call Center Analysis](https://github.com/amanat-mahmud/call_center_analysis): Developed SQL queries to analyze customer service metrics, sentiment, and regional trends to optimize call center operations and improve customer satisfaction.
 
 ### Tableau Projects
-1. [Beverage Analysis](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-): Deeloped data riven insights on consumer preference analysis, product optimization, competitor assessment, and targeted marketing recommendations to increase market share and brand awareness.
+1. [Beverage Analysis](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-): Data-driven market research and strategy development for Codex, an emerging Indian energy drink brand. Includes consumer preference analysis, product optimization, competitor assessment, and targeted marketing recommendations to increase market share and brand awareness.
 2. [Hotel Management Analysis](https://github.com/amanat-mahmud/Hotel-Management-Analysis): Analyzing customer retention, revenue trends, and market diversity to optimize pricing strategies and enhance customer experience in the hospitality industry.
 
 ### Python Projects
