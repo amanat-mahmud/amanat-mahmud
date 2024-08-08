@@ -27,7 +27,7 @@
 
 ### Power BI Projects
 1. [CRM and Sales Analysis](https://github.com/amanat-mahmud/crm_and_sales): Analysis of Customer relationship management and sales management(2024). Identifies optimizing sales performance,top sales agent,conversion rate, win rate and revenue forecasting. THis was done for Fp20 challenge.
-2. [Insurance Analysis](https://github.com/amanat-mahmud/Shield-Insurance-Analysis):
+2. [Insurance Analysis](https://github.com/amanat-mahmud/Shield-Insurance-Analysis): Interactive Power BI dashboard analyzing customer demographics, sales channels, and policy trends. Provides actionable insights on revenue generation, customer growth, and age-group impacts to drive data-informed business decisions.
 3. [E-commerce Sales Analysis](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis): E-commerce sales and promotions analysis(2019). Examines user behavior, product performance, and promotional impact across brands, categories, and states to optimize sales strategies and profitability.
 4. [Hotel Management Analysis](https://github.com/amanat-mahmud/hotel_management): Analyzing customer retention, revenue trends, and market diversity to optimize pricing strategies and enhance customer experience in the hospitality industry.
 5. [Adhoc Sales Analysis](https://github.com/amanat-mahmud/sales_adhoc_analysis): E-commerce sales analysis project using Power BI. Insights on revenue, product categories, regional performance, and order statuses to optimize sales and improve customer satisfaction.
@@ -42,7 +42,7 @@
 2. [Hotel Management Analysis](https://github.com/amanat-mahmud/Hotel-Management-Analysis): Analyzing customer retention, revenue trends, and market diversity to optimize pricing strategies and enhance customer experience in the hospitality industry.
 
 ### Python Projects
-1. [Food delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis): Analyzed delivery data to find total sales, total loss due to refunds, average delivery time with monthly trend.
+1. [Food delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis): Analyze 5 months of Khao's food delivery data to boost sales and profitability. Identify key factors affecting performance, analyze trends, and provide actionable recommendations for resource allocation and strategy improvement.
 ## Skills
 
 ### Data Analysis
