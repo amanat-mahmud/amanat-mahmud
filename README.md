@@ -11,7 +11,7 @@
 - 🛠️ Skilled in ETL processes, database management, and dashboard creation
 - 🔭 Currently working on: []()
 - 🌱 Expanding skills in: Tableau and Plotly Dash for interactive data storytelling
-- 📂 Explore my [Data Analysis Portfolio](m)
+- 📂 Explore my [Data Analysis Portfolio](https://codebasics.io/portfolio/Amanat-Ullah-Mahmud)
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/amanat-mahmud)
 - 📄 View my [Resume](https://drive.google.com/file/d/1HvavGSf-2b147TQgHEKXx6B8hecF75JF/view?usp=sharing)
 - 🤝 Open to collaboration on data-driven projects and analytics challenges
