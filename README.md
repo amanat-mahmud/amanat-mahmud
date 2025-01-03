@@ -51,7 +51,7 @@
     <img width="48" height="48" src="https://i.ibb.co/KxJLQK0/icons8-power-bi-2021-96.png" alt="power-bi-2021"/>
     <img width="48" height="48" src="https://i.ibb.co/Cb0svXH/icons8-tableau-software-96.png" alt="tableau"/>
     <img src="https://skillicons.dev/icons?i=python,mysql"/>
-    <img width="144" height="48" src="https://global.discourse-cdn.com/business7/uploads/plot/original/3X/f/3/f3da33405ee7e693abfd12bd4ae334a55e8345d0.png" alt="plotly"/>
+<!--     <img width="144" height="48" src="https://global.discourse-cdn.com/business7/uploads/plot/original/3X/f/3/f3da33405ee7e693abfd12bd4ae334a55e8345d0.png" alt="plotly"/> -->
 
 </p>
 
