@@ -93,9 +93,6 @@
     <a href="https://linkedin.com/in/amanat-mahmud" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
     </a> 
-<a href="https://www.facebook.com/profile.php?id=100009255360840&mibextid=ZbWKwL" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
-    </a> 
 
 <a href="https://twitter.com/amanat_mahmud" target="_blank">
         <img src="https://img.shields.io/twitter/follow/amanat_mahmud?style=for-the-badge&logo=x&logoColor=white&labelColor=black&color=black" alt=twitter style="margin-bottom: 5px;" />
