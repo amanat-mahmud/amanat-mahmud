@@ -43,6 +43,7 @@
 
 ### Python Projects
 1. [Food delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis): Analyze 5 months of Khao's food delivery data to boost sales and profitability. Identify key factors affecting performance, analyze trends, and provide actionable recommendations for resource allocation and strategy improvement.
+2. [Nova Mart Campaign Analysis](https://github.com/amanat-mahmud/Nova-Mart-Promotional-Campaign-Analysis): Analyzed Diwali 2023 and Sankranti 2024 campaign datasets with Python and Pandas to quantify sales uplift, IR%, ISU%, and store-/category-level performance. Derived key insights and formulated targeted recommendations to optimize Nova Mart’s future promotional strategies.
 ## Skills
 
 ### Data Analysis
