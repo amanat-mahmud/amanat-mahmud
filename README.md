@@ -6,7 +6,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A0FF?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6f42c1?style=flat-square)
 
-- 📂 Explore my [Data Analysis Portfolio](https://codebasics.io/portfolio/Amanat-Ullah-Mahmud)
+- 📂 Explore my [Portfolio](https://codebasics.io/portfolio/Amanat-Ullah-Mahmud)
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/amanat-mahmud)
 - 📄 View my [Resume](https://drive.google.com/file/d/1MlW-fZQRBeei4wjDW0p5W38fBpHYqChi/view?usp=sharing)
 - 🤝 Open to collaboration on data-driven projects and analytics challenges
