@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Amanat+Mahmud.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
 
 ## 🤖 GenAI Engineer | ML Developer
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)]
-[![LangChain](https://img.shields.io/badge/LangChain-00A0FF?style=flat-square&logo=langchain&logoColor=white)]
-[![LangGraph](https://img.shields.io/badge/LangGraph-6f42c1?style=flat-square)]
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A0FF?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6f42c1?style=flat-square)
 
 - 💼 Transforming raw data into actionable insights and compelling stories
 - 🛠️ Skilled in ETL processes, database management, and dashboard creation
