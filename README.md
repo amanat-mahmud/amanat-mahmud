@@ -5,12 +5,26 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A0FF?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6f42c1?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - 📂 Explore my [Portfolio](https://codebasics.io/portfolio/Amanat-Ullah-Mahmud)
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/amanat-mahmud)
 - 📄 View my [Resume](https://drive.google.com/file/d/1MlW-fZQRBeei4wjDW0p5W38fBpHYqChi/view?usp=sharing)
 - 🤝 Open to collaboration on data-driven projects and analytics challenges
 
+
+## Data Analysis Projects
+
+### Gen AI Projects
+
+### Deep Learning Projects
+
+### ML Projects
+
+###### Python Projects
+1. [Nova Mart Campaign Analysis](https://github.com/amanat-mahmud/Nova-Mart-Promotional-Campaign-Analysis): Analyzed Diwali 2023 and Sankranti 2024 campaign datasets with Python and Pandas to quantify sales uplift, IR%, ISU%, and store-/category-level performance. Derived key insights and formulated targeted recommendations to optimize Nova Mart’s future promotional strategies.
+
+### Statistical Analysis Projects
 
 ## Data Analysis Projects
 
@@ -38,7 +52,6 @@
 
 ### Python Projects
 1. [Food delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis): Analyze 5 months of Khao's food delivery data to boost sales and profitability. Identify key factors affecting performance, analyze trends, and provide actionable recommendations for resource allocation and strategy improvement.
-2. [Nova Mart Campaign Analysis](https://github.com/amanat-mahmud/Nova-Mart-Promotional-Campaign-Analysis): Analyzed Diwali 2023 and Sankranti 2024 campaign datasets with Python and Pandas to quantify sales uplift, IR%, ISU%, and store-/category-level performance. Derived key insights and formulated targeted recommendations to optimize Nova Mart’s future promotional strategies.
 ## Skills
 
 ### Data Analysis
