@@ -16,15 +16,22 @@
 ## 🧠 AI/ML Projects
 
 ### Gen AI Projects
+1. [Talent Recruiter Agent](): A smart AI recruitment assistant that automates resume screening and technical interviews. Candidates upload resumes that are instantly analyzed against job descriptions. Qualified applicants proceed to an AI-conducted interview with dynamic question-answering capabilities.
+2. [Multi Modal Ecom CHatbot](): A smart conversational AI agent that revolutionizes online shopping through natural language interactions. Users can ask questions about products or general inquiries using both text and voice input, receiving instant, contextually relevant responses powered by advanced semantic search and routing.
+3. [MediAssist Agent](): A user-friendly agent(LangChain) designed for effortless information retrieval from pubmed article. Users can input search term and ask questions to receive relevant insights from the healthcare domain. (But it's features can be extended to any domain.)
 
 ### Deep Learning Projects
+1. [Fruit Freshness Detection](): Automated Freshness Inspector — ResNet50 transfer-learning model to classify freshness of eight produce items: Banana, Lemon, Lulo, Mango, Orange, Strawberry, Tamarillo, Tomato. Streamlit dashboard for image uploads and real-time inspections
 
 ### ML Projects
+1. [Beverage Price Range Prediction](): Codex, a leading beverage company, is planning to launch an innovative new product in the competitive beverage market. To ensure successful market penetration and optimal pricing strategy, the company conducted comprehensive customer surveys to understand consumer preferences, purchasing behavior, and price sensitivity.This project develops a Machine Learning-based Price Prediction System that analyzes customer survey data to predict the most suitable price range for individual customer segments.
+2. [Employee Segmentation](): In this project applied K-means clustering to an HR dataset to uncover four distinct employee personas based on tenure, role, income, and satisfaction metrics. By leveraging targeted feature engineering, PCA-based 2D visualization, cluster evaluation (silhouette, Calinski–Harabasz, Davies–Bouldin), and persona profiling, given actionable recommendations to boost retention and engagement across each segment.
 
 ### Python Projects
 1. [Nova Mart Campaign Analysis](https://github.com/amanat-mahmud/Nova-Mart-Promotional-Campaign-Analysis): Analyzed Diwali 2023 and Sankranti 2024 campaign datasets with Python and Pandas to quantify sales uplift, IR%, ISU%, and store-/category-level performance. Derived key insights and formulated targeted recommendations to optimize Nova Mart’s future promotional strategies.
 
 ### Statistical Analysis Projects
+1. [E-commerce Website Analysis]():This project presents a comprehensive statistical analysis of an e-commerce platform’s visitor session data to uncover key drivers of conversion performance and identify opportunities for optimization. By leveraging rigorous hypothesis testing, confidence interval estimation, and visualizations we uncover actionable insights about user behavior, seasonal trends, device preferences, and revenue impact.
 
 ## Data Analysis Projects
 
