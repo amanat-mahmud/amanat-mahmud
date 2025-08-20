@@ -13,7 +13,7 @@
 - 🤝 Open to collaboration on data-driven projects and analytics challenges
 
 
-## Data Analysis Projects
+## 🧠 AI/ML Projects
 
 ### Gen AI Projects
 
