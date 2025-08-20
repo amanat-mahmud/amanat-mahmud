@@ -17,7 +17,7 @@
 
 ### Gen AI Projects
 1. [Talent Recruiter Agent](): A smart AI recruitment assistant that automates resume screening and technical interviews. Candidates upload resumes that are instantly analyzed against job descriptions. Qualified applicants proceed to an AI-conducted interview with dynamic question-answering capabilities.
-2. [Multi Modal Ecom CHatbot](): A smart conversational AI agent that revolutionizes online shopping through natural language interactions. Users can ask questions about products or general inquiries using both text and voice input, receiving instant, contextually relevant responses powered by advanced semantic search and routing.
+2. [Multi Modal Ecom Chatbot](): A smart conversational AI agent that revolutionizes online shopping through natural language interactions. Users can ask questions about products or general inquiries using both text and voice input, receiving instant, contextually relevant responses powered by advanced semantic search and routing.
 3. [MediAssist Agent](): A user-friendly agent(LangChain) designed for effortless information retrieval from pubmed article. Users can input search term and ask questions to receive relevant insights from the healthcare domain. (But it's features can be extended to any domain.)
 
 ### Deep Learning Projects
