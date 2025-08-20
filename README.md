@@ -6,10 +6,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A0FF?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6f42c1?style=flat-square)
 
-- 💼 Transforming raw data into actionable insights and compelling stories
-- 🛠️ Skilled in ETL processes, database management, and dashboard creation
-- 🔭 Currently working on: []()
-- 🌱 Expanding skills in: Tableau and Plotly Dash for interactive data storytelling
 - 📂 Explore my [Data Analysis Portfolio](https://codebasics.io/portfolio/Amanat-Ullah-Mahmud)
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/amanat-mahmud)
 - 📄 View my [Resume](https://drive.google.com/file/d/1MlW-fZQRBeei4wjDW0p5W38fBpHYqChi/view?usp=sharing)
