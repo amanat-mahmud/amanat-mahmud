@@ -16,9 +16,9 @@
 ## 🧠 AI/ML Projects
 
 ### Gen AI Projects
-1. [Talent Recruiter Agent](): A smart AI recruitment assistant that automates resume screening and technical interviews. Candidates upload resumes that are instantly analyzed against job descriptions. Qualified applicants proceed to an AI-conducted interview with dynamic question-answering capabilities.
-2. [Multi Modal Ecom Chatbot](): A smart conversational AI agent that revolutionizes online shopping through natural language interactions. Users can ask questions about products or general inquiries using both text and voice input, receiving instant, contextually relevant responses powered by advanced semantic search and routing.
-3. [MediAssist Agent](): A user-friendly agent(LangChain) designed for effortless information retrieval from pubmed article. Users can input search term and ask questions to receive relevant insights from the healthcare domain. (But it's features can be extended to any domain.)
+1. [Talent Recruiter Agent](https://github.com/amanat-mahmud/Talent-Recruiter-Agent): A smart AI recruitment assistant that automates resume screening and technical interviews. Candidates upload resumes that are instantly analyzed against job descriptions. Qualified applicants proceed to an AI-conducted interview with dynamic question-answering capabilities.
+2. [Multi Modal Ecom Chatbot](https://github.com/amanat-mahmud/Voice-Shop-Agent): A smart conversational AI agent that revolutionizes online shopping through natural language interactions. Users can ask questions about products or general inquiries using both text and voice input, receiving instant, contextually relevant responses powered by advanced semantic search and routing.
+3. [MediAssist Agent](https://github.com/amanat-mahmud/MediAssist-AI-Agent): A user-friendly agent(LangChain) designed for effortless information retrieval from pubmed article. Users can input search term and ask questions to receive relevant insights from the healthcare domain. (But it's features can be extended to any domain.)
 
 ### Deep Learning Projects
 1. [Fruit Freshness Detection](): Automated Freshness Inspector — ResNet50 transfer-learning model to classify freshness of eight produce items: Banana, Lemon, Lulo, Mango, Orange, Strawberry, Tamarillo, Tomato. Streamlit dashboard for image uploads and real-time inspections
